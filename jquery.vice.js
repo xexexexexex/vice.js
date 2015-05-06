@@ -7,4 +7,5 @@
 		move: "vertical",
 		timing: 5
 	};
+	
 }(jQuery));
